@@ -37,7 +37,7 @@ o PC5: 192.168.4.3, Subnet Mask: 255.255.255.0, Gateway: 192.168.4.1
 # PROGRAM
 ````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 Router0 Configuration Steps
-Click Router 0 and in CLI TYPE THIS Router> enable
+Click Router 0 and in CLI TYPE THIS Router> enable  
 Router# configure terminal Router(config)# interface FastEthernet0/0
 Router(config-if)# ip address 192.168.1.1 255.255.255.0 Router(config-if)# no shutdown
 Router(config-if)# exit

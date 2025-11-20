@@ -13,7 +13,7 @@ To connect computers in multiple networks using Distance Vector Routing Protocol
 
 
 # NETWORK DIAGRAM:
-<img width="793" height="300" alt="image" src="https://github.com/user-attachments/assets/3f9e6867-01a4-4701-a021-f19ab5431bda" />
+<img width="801" height="493" alt="image" src="https://github.com/user-attachments/assets/66514695-0708-443a-bac0-0f77d9f1e232" />
 
 # PROCEDURE:
 
@@ -85,8 +85,8 @@ You can also check connectivity between the PCs on different networks to ensure 
  
 # OUTPUT
 
-<img width="940" height="644" alt="image" src="https://github.com/user-attachments/assets/c52cf200-2c40-425e-a739-03b83cfb506a" />
-<img width="940" height="695" alt="image" src="https://github.com/user-attachments/assets/57869784-dd81-4e2e-9e8f-be8ae9d384f6" />
+<img width="779" height="550" alt="image" src="https://github.com/user-attachments/assets/11ebb114-aa41-4bf8-938b-ae5ded4e75db" />
+
 
 
 # RESULT:
